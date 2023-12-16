@@ -1,1 +1,1 @@
-# ScoopReleases
+# ScoopReleasesx
